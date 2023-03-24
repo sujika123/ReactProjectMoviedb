@@ -1,0 +1,27 @@
+.ban{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-steam-wave-international-film-festival-banner-poster-image_195212.jpg');
+    /* background-attachment: fixed;  */
+    /* padding: 140px 500px; */
+    background-size: cover;
+    font-size: 150px;
+    /* font-stretch: ultra-condensed; */
+    color:rgb(193, 9, 9);
+    font-weight: 500;
+    font-style: inherit;
+       
+    
+}
+
+
+.ban1{
+    /* padding: 100px 400px;  */
+    margin-left: 100px;
+    
+}
+
+.ban2{
+    padding: 140px 500px; 
+    font-size: 150px;
+    font-weight: 500;
+    font-style: inherit;
+}
